@@ -24,4 +24,3 @@ def now_serving(deli)
     puts "Currently serving #{deli.first}."
     deli.shift
   end
-endte your code here.
